@@ -1,2 +1,2 @@
 # first-repository
-my first github repo
+My name is Josh Gum and this is my first github repo
